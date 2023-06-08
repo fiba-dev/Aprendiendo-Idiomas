@@ -1,0 +1,58 @@
+.listContainer {
+	overflow-y: scroll;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: #b10ac0;
+	background-color: rgba(255, 255, 255, 0.459);
+}
+
+.tb {
+	border-collapse: collapse;
+	width: 100%;
+	color: rgba(0, 0, 0, 0.678);
+}
+
+.head {
+	background-color: aliceblue;
+	border: solid 2px #b10ac0;
+	text-align: center;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+}
+
+.head th {
+	padding: 10px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.body {
+	text-align: center;
+	padding: 3px;
+	background-color: aliceblue;
+	text-decoration: none;
+}
+
+.body td {
+	border-top: solid 1px #818181;
+	border-bottom: solid 1px #818181;
+	border-left: solid 1px #818181;
+	padding: 10px;
+	text-decoration: none;
+}
+.body td a {
+	color: rgba(0, 0, 0, 0.678);
+	text-decoration: none;
+}
+.body td:hover {
+	background-color: red;
+	cursor: pointer;
+}
+.body td:first-child {
+	text-align: center;
+}
+
+.body td:last-child {
+	text-align: center;
+}

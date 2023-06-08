@@ -1,0 +1,9 @@
+.libros {
+	border-radius: 10px;
+	box-shadow: 0px 2px 2px 2px black;
+	height: 800px;
+	width: 600px;
+}
+.libros:hover {
+	box-shadow: 0px 4px 4px 4px black;
+}

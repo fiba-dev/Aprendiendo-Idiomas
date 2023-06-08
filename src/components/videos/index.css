@@ -1,0 +1,10 @@
+.videos {
+	border-radius: 10px;
+	box-shadow: 0px 2px 2px 2px black;
+}
+.videos:hover {
+	box-shadow: 0px 4px 4px 4px black;
+}
+.carousel {
+	width: 560px !important;
+}

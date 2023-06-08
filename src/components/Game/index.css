@@ -1,0 +1,78 @@
+.a1Container {
+	display: flex;
+	flex-direction: column;
+	width: 100vw;
+	height: 100vh;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	color: #b10ac0;
+	font-family: fantasy;
+	background-color: rgb(255, 255, 255);
+}
+.btn {
+	background-color: aliceblue;
+	color: #b10ac0;
+	width: 100px;
+	font-family: fantasy;
+	height: 50px;
+	border-radius: 10px;
+	font-size: 20px;
+	font-weight: 600;
+}
+.btn:hover {
+	background-color: #b10ac0;
+	color: aliceblue;
+	cursor: pointer;
+}
+.btnStart {
+	width: 200px;
+	height: 60px;
+	font-size: 30px;
+	font-weight: 700;
+	color: aliceblue;
+	font-family: fantasy;
+	background-color: #b10ac0;
+	border-radius: 10px;
+	border: solid 1px #b10ac0;
+}
+.btnStart:hover {
+	border: solid 1px #b10ac0;
+	color: #b10ac0;
+	background-color: aliceblue;
+	cursor: pointer;
+}
+.inputText {
+	height: 45px;
+	width: 300px;
+	font-size: 30px;
+	color: rgba(0, 0, 0, 0.733);
+	border-radius: 10px;
+	font-weight: 600;
+}
+.correctText {
+	color: rgba(182, 3, 12, 0.555);
+	font-family: fantasy;
+}
+.presenText {
+	font-family: fantasy;
+	color: rgb(218, 3, 14);
+	font-size: 55px;
+	margin: 0px;
+}
+.formDiv {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 500px;
+	height: 120px;
+	justify-content: space-between;
+}
+
+.timer {
+	margin: 0px;
+	position: relative;
+	font-size: 48px;
+	color: #b10ac0;
+	animation: timerAnimation 1s infinite cubic-bezier(1, 1, 1, 1);
+}

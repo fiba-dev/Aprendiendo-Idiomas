@@ -1,0 +1,26 @@
+.homeContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	justify-items: center;
+}
+.homeTitle {
+	font-family: fantasy;
+	color: rgba(223, 0, 11, 0.753);
+	font-size: 60px;
+	text-align: center;
+}
+.homeSubtitles {
+	font-family: fantasy;
+	color: rgba(201, 0, 228, 0.753);
+	font-size: 35px;
+	text-decoration: none;
+	text-align: center;
+	cursor: pointer;
+	transition: text-shadow 0.3s ease;
+}
+
+.homeSubtitles:hover {
+	text-shadow: 0 0 5px rgba(201, 0, 228, 0.753);
+}

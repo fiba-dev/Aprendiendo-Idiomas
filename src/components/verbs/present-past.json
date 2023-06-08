@@ -1,0 +1,612 @@
+{"verbs": [
+    {
+      "presente": "be",
+      "pasado": "was/were",
+      "traduccion": "ser/estar"
+    },
+    {
+      "presente": "have",
+      "pasado": "had",
+      "traduccion": "tener"
+    },
+    {
+      "presente": "do",
+      "pasado": "did",
+      "traduccion": "hacer"
+    },
+    {
+      "presente": "say",
+      "pasado": "said",
+      "traduccion": "decir"
+    },
+    {
+      "presente": "go",
+      "pasado": "went",
+      "traduccion": "ir"
+    },
+    {
+      "presente": "get",
+      "pasado": "got",
+      "traduccion": "obtener"
+    },
+    {
+      "presente": "make",
+      "pasado": "made",
+      "traduccion": "hacer"
+    },
+    {
+      "presente": "know",
+      "pasado": "knew",
+      "traduccion": "saber"
+    },
+    {
+      "presente": "think",
+      "pasado": "thought",
+      "traduccion": "pensar"
+    },
+    {
+      "presente": "take",
+      "pasado": "took",
+      "traduccion": "tomar"
+    },
+    {
+      "presente": "see",
+      "pasado": "saw",
+      "traduccion": "ver"
+    },
+    {
+      "presente": "come",
+      "pasado": "came",
+      "traduccion": "venir"
+    },
+    {
+      "presente": "want",
+      "pasado": "wanted",
+      "traduccion": "querer"
+    },
+    {
+      "presente": "use",
+      "pasado": "used",
+      "traduccion": "usar"
+    },
+    {
+      "presente": "find",
+      "pasado": "found",
+      "traduccion": "encontrar"
+    },
+    {
+      "presente": "give",
+      "pasado": "gave",
+      "traduccion": "dar"
+    },
+    {
+      "presente": "tell",
+      "pasado": "told",
+      "traduccion": "contar"
+    },
+    {
+      "presente": "work",
+      "pasado": "worked",
+      "traduccion": "trabajar"
+    },
+    {
+      "presente": "call",
+      "pasado": "called",
+      "traduccion": "llamar"
+    },
+    {
+      "presente": "try",
+      "pasado": "tried",
+      "traduccion": "intentar"
+    },
+    {
+      "presente": "ask",
+      "pasado": "asked",
+      "traduccion": "preguntar"
+    },
+    {
+      "presente": "need",
+      "pasado": "needed",
+      "traduccion": "necesitar"
+    },
+    {
+      "presente": "feel",
+      "pasado": "felt",
+      "traduccion": "sentir"
+    },
+    {
+      "presente": "become",
+      "pasado": "became",
+      "traduccion": "convertirse en"
+    },
+    {
+      "presente": "leave",
+      "pasado": "left",
+      "traduccion": "dejar"
+    },
+    {
+      "presente": "put",
+      "pasado": "put",
+      "traduccion": "poner"
+    },
+    {
+      "presente": "mean",
+      "pasado": "meant",
+      "traduccion": "significar"
+    },
+    {
+      "presente": "keep",
+      "pasado": "kept",
+      "traduccion": "mantener"
+    },
+    {
+      "presente": "let",
+      "pasado": "let",
+      "traduccion": "permitir"
+    },
+    {
+      "presente": "begin",
+      "pasado": "began",
+      "traduccion": "empezar"
+    },
+    {
+      "presente": "seem",
+      "pasado": "seemed",
+      "traduccion": "parecer"
+    },
+    {
+      "presente": "help",
+      "pasado": "helped",
+      "traduccion": "ayudar"
+    },
+    {
+      "presente": "talk",
+      "pasado": "talked",
+      "traduccion": "hablar"
+    },
+    {
+      "presente": "turn",
+      "pasado": "turned",
+      "traduccion": "girar"
+    },
+    {
+      "presente": "start",
+      "pasado": "started",
+      "traduccion": "empezar"
+    },
+    {
+      "presente": "show",
+      "pasado": "showed",
+      "traduccion": "mostrar"
+    },
+    {
+      "presente": "hear",
+      "pasado": "heard",
+      "traduccion": "oír"
+    },
+    {
+      "presente": "play",
+      "pasado": "played",
+      "traduccion": "jugar"
+    },
+    {
+      "presente": "run",
+      "pasado": "ran",
+      "traduccion": "correr"
+    },
+    {
+      "presente": "move",
+      "pasado": "moved",
+      "traduccion": "mover"
+    },
+    {
+      "presente": "live",
+      "pasado": "lived",
+      "traduccion": "vivir"
+    },
+    {
+      "presente": "believe",
+      "pasado": "believed",
+      "traduccion": "creer"
+    },
+    {
+      "presente": "hold",
+      "pasado": "held",
+      "traduccion": "sostener"
+    },
+    {
+      "presente": "bring",
+      "pasado": "brought",
+      "traduccion": "traer"
+    },
+    {
+      "presente": "happen",
+      "pasado": "happened",
+      "traduccion": "ocurrir"
+    },
+    {
+      "presente": "write",
+      "pasado": "wrote",
+      "traduccion": "escribir"
+    },
+    {
+      "presente": "provide",
+      "pasado": "provided",
+      "traduccion": "proveer"
+    },
+    {
+      "presente": "sit",
+      "pasado": "sat",
+      "traduccion": "sentarse"
+    },
+    {
+      "presente": "stand",
+      "pasado": "stood",
+      "traduccion": "estar de pie"
+    },
+    {
+      "presente": "lose",
+      "pasado": "lost",
+      "traduccion": "perder"
+    },
+    {
+      "presente": "pay",
+      "pasado": "paid",
+      "traduccion": "pagar"
+    },
+    {
+      "presente": "meet",
+      "pasado": "met",
+      "traduccion": "encontrar"
+    },
+    {
+      "presente": "include",
+      "pasado": "included",
+      "traduccion": "incluir"
+    },
+    {
+      "presente": "continue",
+      "pasado": "continued",
+      "traduccion": "continuar"
+    },
+    {
+      "presente": "set",
+      "pasado": "set",
+      "traduccion": "establecer"
+    },
+    {
+      "presente": "learn",
+      "pasado": "learned",
+      "traduccion": "aprender"
+    },
+    {
+      "presente": "change",
+      "pasado": "changed",
+      "traduccion": "cambiar"
+    },
+    {
+      "presente": "lead",
+      "pasado": "led",
+      "traduccion": "dirigir"
+    },
+    {
+      "presente": "understand",
+      "pasado": "understood",
+      "traduccion": "entender"
+    },
+    {
+      "presente": "watch",
+      "pasado": "watched",
+      "traduccion": "mirar"
+    },
+    {
+      "presente": "follow",
+      "pasado": "followed",
+      "traduccion": "seguir"
+    },
+    {
+      "presente": "stop",
+      "pasado": "stopped",
+      "traduccion": "parar"
+    },
+    {
+      "presente": "create",
+      "pasado": "created",
+      "traduccion": "crear"
+    },
+    {
+      "presente": "speak",
+      "pasado": "spoke",
+      "traduccion": "hablar"
+    },
+    {
+      "presente": "read",
+      "pasado": "read",
+      "traduccion": "leer"
+    },
+    {
+      "presente": "allow",
+      "pasado": "allowed",
+      "traduccion": "permitir"
+    },
+    {
+      "presente": "add",
+      "pasado": "added",
+      "traduccion": "añadir"
+    },
+    {
+      "presente": "spend",
+      "pasado": "spent",
+      "traduccion": "gastar"
+    },
+    {
+      "presente": "grow",
+      "pasado": "grew",
+      "traduccion": "crecer"
+    },
+    {
+      "presente": "open",
+      "pasado": "opened",
+      "traduccion": "abrir"
+    },
+    {
+      "presente": "walk",
+      "pasado": "walked",
+      "traduccion": "caminar"
+    },
+    {
+      "presente": "win",
+      "pasado": "won",
+      "traduccion": "ganar"
+    },
+    {
+      "presente": "offer",
+      "pasado": "offered",
+      "traduccion": "ofrecer"
+    },
+    {
+      "presente": "remember",
+      "pasado": "remembered",
+      "traduccion": "recordar"
+    },
+    {
+      "presente": "love",
+      "pasado": "loved",
+      "traduccion": "amar"
+    },
+    {
+      "presente": "consider",
+      "pasado": "considered",
+      "traduccion": "considerar"
+    },
+    {
+      "presente": "appear",
+      "pasado": "appeared",
+      "traduccion": "aparecer"
+    },
+    {
+      "presente": "buy",
+      "pasado": "bought",
+      "traduccion": "comprar"
+    },
+    {
+      "presente": "wait",
+      "pasado": "waited",
+      "traduccion": "esperar"
+    },
+    {
+      "presente": "serve",
+      "pasado": "served",
+      "traduccion": "servir"
+    },
+    {
+      "presente": "die",
+      "pasado": "died",
+      "traduccion": "morir"
+    },
+    {
+      "presente": "send",
+      "pasado": "sent",
+      "traduccion": "enviar"
+    },
+    {
+      "presente": "expect",
+      "pasado": "expected",
+      "traduccion": "esperar"
+    },
+    {
+      "presente": "build",
+      "pasado": "built",
+      "traduccion": "construir"
+    },
+    {
+      "presente": "stay",
+      "pasado": "stayed",
+      "traduccion": "quedarse"
+    },
+    {
+      "presente": "fall",
+      "pasado": "fell",
+      "traduccion": "caer"
+    },
+    {
+      "presente": "cut",
+      "pasado": "cut",
+      "traduccion": "cortar"
+    },
+    {
+      "presente": "reach",
+      "pasado": "reached",
+      "traduccion": "alcanzar"
+    },
+    {
+      "presente": "kill",
+      "pasado": "killed",
+      "traduccion": "matar"
+    },
+    {
+      "presente": "remain",
+      "pasado": "remained",
+      "traduccion": "permanecer"
+    },
+    {
+      "presente": "suggest",
+      "pasado": "suggested",
+      "traduccion": "sugerir"
+    },
+    {
+      "presente": "raise",
+      "pasado": "raised",
+      "traduccion": "levantar"
+    },
+    {
+      "presente": "pass",
+      "pasado": "passed",
+      "traduccion": "pasar"
+    },
+    {
+      "presente": "sell",
+      "pasado": "sold",
+      "traduccion": "vender"
+    },
+    {
+      "presente": "require",
+      "pasado": "required",
+      "traduccion": "requerir"
+    },
+    {
+      "presente": "report",
+      "pasado": "reported",
+      "traduccion": "informar"
+    },
+    {
+      "presente": "decide",
+      "pasado": "decided",
+      "traduccion": "decidir"
+    },
+    {
+      "presente": "pull",
+      "pasado": "pulled",
+      "traduccion": "tirar"
+    },
+    {
+      "presente": "break",
+      "pasado": "broke",
+      "traduccion": "romper"
+    },
+    {
+      "presente": "across",
+      "pasado": "across",
+      "traduccion": "atravesar"
+    },
+    {
+      "presente": "present",
+      "pasado": "presented",
+      "traduccion": "presentar"
+    },
+    {
+      "presente": "study",
+      "pasado": "studied",
+      "traduccion": "estudiar"
+    },
+    {
+      "presente": "rise",
+      "pasado": "rose",
+      "traduccion": "elevarse"
+    },
+    {
+      "presente": "sing",
+      "pasado": "sang",
+      "traduccion": "cantar"
+    },
+    {
+      "presente": "recognize",
+      "pasado": "recognized",
+      "traduccion": "reconocer"
+    },
+    {
+      "presente": "serve",
+      "pasado": "served",
+      "traduccion": "servir"
+    },
+    {
+      "presente": "win",
+      "pasado": "won",
+      "traduccion": "ganar"
+    },
+    {
+      "presente": "argue",
+      "pasado": "argued",
+      "traduccion": "discutir"
+    },
+    {
+      "presente": "wear",
+      "pasado": "wore",
+      "traduccion": "usar"
+    },
+    {
+      "presente": "arrive",
+      "pasado": "arrived",
+      "traduccion": "llegar"
+    },
+    {
+      "presente": "sign",
+      "pasado": "signed",
+      "traduccion": "firmar"
+    },
+    {
+      "presente": "watch",
+      "pasado": "watched",
+      "traduccion": "ver"
+    },
+    {
+      "presente": "throw",
+      "pasado": "threw",
+      "traduccion": "lanzar"
+    },
+    {
+      "presente": "teach",
+      "pasado": "taught",
+      "traduccion": "enseñar"
+    },
+    {
+      "presente": "pick",
+      "pasado": "picked",
+      "traduccion": "recoger"
+    },
+    {
+      "presente": "explain",
+      "pasado": "explained",
+      "traduccion": "explicar"
+    },
+    {
+      "presente": "win",
+      "pasado": "won",
+      "traduccion": "ganar"
+    },
+    {
+      "presente": "burn",
+      "pasado": "burned",
+      "traduccion": "quemar"
+    },
+    {
+      "presente": "drink",
+      "pasado": "drank",
+      "traduccion": "beber"
+    },
+    {
+      "presente": "forget",
+      "pasado": "forgot",
+      "traduccion": "olvidar"
+    },
+    {
+      "presente": "sing",
+      "pasado": "sang",
+      "traduccion": "cantar"
+    },
+    {
+      "presente": "jump",
+      "pasado": "jumped",
+      "traduccion": "saltar"
+    }
+]}
