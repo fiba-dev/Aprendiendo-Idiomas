@@ -4,15 +4,16 @@
 	left: 0;
 	margin: 10px;
 	z-index: 9999;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .home {
 	text-decoration: none;
-	color: #000;
+	color: #ffffff;
 
-	background-color: #ccc;
+	background-color: rgb(173, 0, 0);
 }
 
 .home:hover {
-	color: red;
+	color: rgb(255, 0, 200);
 }

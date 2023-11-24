@@ -6,15 +6,15 @@
 	align-items: center;
 	text-align: center;
 	justify-content: center;
-	color: #b10ac0;
-	font-family: fantasy;
-	background-color: rgb(255, 255, 255);
+	color: #e2e2e2;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	background-color: rgb(21, 21, 21);
 }
 .btn {
-	background-color: aliceblue;
+	background-color: rgb(19, 19, 19);
 	color: #b10ac0;
 	width: 100px;
-	font-family: fantasy;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 	height: 50px;
 	border-radius: 10px;
 	font-size: 20px;
@@ -22,7 +22,7 @@
 }
 .btn:hover {
 	background-color: #b10ac0;
-	color: aliceblue;
+	color: rgb(19, 19, 19);
 	cursor: pointer;
 }
 .btnStart {
@@ -30,8 +30,8 @@
 	height: 60px;
 	font-size: 30px;
 	font-weight: 700;
-	color: aliceblue;
-	font-family: fantasy;
+	color: rgb(17, 17, 17);
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 	background-color: #b10ac0;
 	border-radius: 10px;
 	border: solid 1px #b10ac0;
@@ -39,7 +39,7 @@
 .btnStart:hover {
 	border: solid 1px #b10ac0;
 	color: #b10ac0;
-	background-color: aliceblue;
+	background-color: rgb(19, 19, 19);
 	cursor: pointer;
 }
 .inputText {
@@ -52,10 +52,10 @@
 }
 .correctText {
 	color: rgba(182, 3, 12, 0.555);
-	font-family: fantasy;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .presenText {
-	font-family: fantasy;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 	color: rgb(218, 3, 14);
 	font-size: 55px;
 	margin: 0px;

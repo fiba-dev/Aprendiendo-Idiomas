@@ -4,20 +4,21 @@
 	flex-direction: column;
 	align-items: center;
 	color: #b10ac0;
-	background-color: rgba(255, 255, 255, 0.459);
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	background-color: rgb(24, 24, 24);
 }
 
 .tb {
 	border-collapse: collapse;
 	width: 100%;
-	color: rgba(0, 0, 0, 0.678);
+	color: rgba(255, 255, 255, 0.998);
 }
 
 .head {
-	background-color: aliceblue;
+	background-color: rgb(24, 24, 24);
 	border: solid 2px #b10ac0;
 	text-align: center;
-	color: rgb(0, 0, 0);
+	color: rgba(255, 255, 255, 0.998);
 	font-size: 25px;
 }
 
@@ -30,7 +31,7 @@
 .body {
 	text-align: center;
 	padding: 3px;
-	background-color: aliceblue;
+	background-color: rgb(24, 24, 24);
 	text-decoration: none;
 }
 
@@ -42,11 +43,11 @@
 	text-decoration: none;
 }
 .body td a {
-	color: rgba(0, 0, 0, 0.678);
+	color: rgba(255, 255, 255, 0.998);
 	text-decoration: none;
 }
 .body td:hover {
-	background-color: red;
+	background-color: rgba(255, 0, 187, 0.475);
 	cursor: pointer;
 }
 .body td:first-child {

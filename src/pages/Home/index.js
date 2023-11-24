@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
+import { US, FR } from "country-flag-icons/react/3x2";
 import { Link } from "react-router-dom";
 import "./index.css";
 export function Home() {
@@ -6,13 +7,12 @@ export function Home() {
 		<div className="homeContainer">
 			<div>
 				<h1 className="homeTitle">Aprende Jugando</h1>
-				<div className="gameContainer">
-					<Link className="homeSubtitles" to="/game">
-						<h3>Verbos de presente a pasado</h3>
+				<div className="containerFlags">
+					<Link className="homeSubtitles" to="/english/index">
+						<US title="United States" className="flags" />
 					</Link>
-					<Link className="homeSubtitles" to="/listOfVerbs">
-						<h3>Lista de Verbos</h3>
-					</Link>
+
+					<FR title="France" className="flags" />
 				</div>
 			</div>
 		</div>
