@@ -32,7 +32,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	height: 80vh;
+	height: 60vh;
 }
 @media (min-width: 1080px) {
 	.containerFlags {
@@ -40,7 +40,7 @@ body {
 		flex-direction: row;
 		justify-content: center;
 		align-items: center;
-		height: 80vh;
+		height: 60vh;
 	}
 }
 

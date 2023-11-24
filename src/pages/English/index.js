@@ -4,11 +4,11 @@ import "./index.css";
 import Header from "../../components/header";
 export function English() {
 	return (
-		<div className="homeContainer">
-			<Header></Header>
-			<div>
+		<>
+			<div className="homeContainer">
 				<h1 className="englishTitle">Aprende Jugando</h1>
 				<div className="gameContainer">
+					<Header></Header>
 					<Link className="englishSubtitles" to="/english/game">
 						<div className="cards">
 							{" "}
@@ -23,7 +23,7 @@ export function English() {
 					</Link>
 				</div>
 			</div>
-		</div>
+		</>
 	);
 }
 
